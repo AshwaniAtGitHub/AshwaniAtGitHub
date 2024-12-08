@@ -1,13 +1,13 @@
 ![logo](https://raw.githubusercontent.com/AshwaniAtGitHub/AshwaniAtGitHub/main/githubBanner.jpeg)
 
 <h1 align="center">Hi 👋, I'm Ashwani Kumar Maurya</h1>
-<h3 align="center">Frontend Web Developer</h3>
+<h3 align="center">Web Developer</h3>
 
 <img align="right" alt="coding" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwaniatgithub&label=Profile%20views&color=0e75b6&style=flat" alt="ashwaniatgithub" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **ashwani4tech@gmail.com**
 
